@@ -1,0 +1,2 @@
+# Curiosities
+General curiosities
