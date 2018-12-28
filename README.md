@@ -6,6 +6,7 @@ General curiosities
 - [CastlevaniaBot](https://meatfighter.com/castlevaniabot/)
 - [Tetris](https://www.colinfahey.com/tetris/tetris.html)
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+- [Games Console on Osciloscope](https://mitxela.com/projects/console)
 
 ## Sites
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
