@@ -7,6 +7,7 @@ General curiosities
 - [Tetris](https://www.colinfahey.com/tetris/tetris.html)
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [Games Console on Osciloscope](https://mitxela.com/projects/console)
+- [Generation I Pokémon Cries Explained](https://www.youtube.com/watch?v=gDLpbFXnpeY)
 
 ## Sites
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
