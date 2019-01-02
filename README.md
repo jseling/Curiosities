@@ -12,3 +12,4 @@ General curiosities
 ## Sites
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
 - [Sandspiel](https://sandspiel.club/)
+- [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
