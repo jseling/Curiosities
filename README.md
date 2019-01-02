@@ -8,6 +8,7 @@ General curiosities
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [Games Console on Osciloscope](https://mitxela.com/projects/console)
 - [Generation I Pokémon Cries Explained](https://www.youtube.com/watch?v=gDLpbFXnpeY)
+- [Atari Star Wars](https://arcadeblogger.com/2017/06/16/atari-star-wars-arcade-cockpit-development/)
 
 ## Sites
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
