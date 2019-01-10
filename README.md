@@ -14,3 +14,4 @@ General curiosities
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
 - [Sandspiel](https://sandspiel.club/)
 - [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
+- [StarWars ASCII](http://asciimation.co.nz/#)
