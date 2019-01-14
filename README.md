@@ -15,3 +15,4 @@ General curiosities
 - [Sandspiel](https://sandspiel.club/)
 - [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
 - [StarWars ASCII](http://asciimation.co.nz/#)
+- [3dFractalGenerator](http://n4no.com/projects/3dFractalGenerator/3d-fractal-generator.html?reddit)
