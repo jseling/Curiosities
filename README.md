@@ -9,6 +9,7 @@ General curiosities
 - [Games Console on Osciloscope](https://mitxela.com/projects/console)
 - [Generation I Pokémon Cries Explained](https://www.youtube.com/watch?v=gDLpbFXnpeY)
 - [Atari Star Wars](https://arcadeblogger.com/2017/06/16/atari-star-wars-arcade-cockpit-development/)
+- [AI Neural Networks being used to generate HQ textures for older games (You can do it yourself!)](https://www.resetera.com/threads/ai-neural-networks-being-used-to-generate-hq-textures-for-older-games-you-can-do-it-yourself.88272/)
 
 ## Sites
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
