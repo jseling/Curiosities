@@ -17,3 +17,6 @@ General curiosities
 - [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
 - [StarWars ASCII](http://asciimation.co.nz/#)
 - [3dFractalGenerator](http://n4no.com/projects/3dFractalGenerator/3d-fractal-generator.html?reddit)
+
+## Science
+- [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
