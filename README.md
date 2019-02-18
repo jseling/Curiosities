@@ -11,6 +11,7 @@ General curiosities
 - [Atari Star Wars](https://arcadeblogger.com/2017/06/16/atari-star-wars-arcade-cockpit-development/)
 - [AI Neural Networks being used to generate HQ textures for older games (You can do it yourself!)](https://www.resetera.com/threads/ai-neural-networks-being-used-to-generate-hq-textures-for-older-games-you-can-do-it-yourself.88272/)
 - [Benchmarking n-Body](https://benchmarksgame-team.pages.debian.net/benchmarksgame/performance/nbody.html)
+- [Flightradar24](https://habr.com/en/post/440596/)
 
 ## Sites
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
