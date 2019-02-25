@@ -12,6 +12,8 @@ General curiosities
 - [AI Neural Networks being used to generate HQ textures for older games (You can do it yourself!)](https://www.resetera.com/threads/ai-neural-networks-being-used-to-generate-hq-textures-for-older-games-you-can-do-it-yourself.88272/)
 - [Benchmarking n-Body](https://benchmarksgame-team.pages.debian.net/benchmarksgame/performance/nbody.html)
 - [Flightradar24](https://habr.com/en/post/440596/)
+- [CSS 3D Engine](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
+- [A game without loops](https://gist.githubusercontent.com/alessonforposterity/832da4fab11e10609dad/raw/258df12378399919ae088ba8731a7571d9c2c947/drgn.txt)
 
 ## Sites
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
