@@ -19,6 +19,8 @@ General curiosities
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
+- [wanderers](https://wanderers.io/)
+- [wilds](https://wilds.io/)
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
 - [Sandspiel](https://sandspiel.club/)
 - [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
