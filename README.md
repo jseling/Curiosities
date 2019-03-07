@@ -5,6 +5,7 @@ General curiosities
 - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 - [CastlevaniaBot](https://meatfighter.com/castlevaniabot/)
 - [Tetris](https://www.colinfahey.com/tetris/tetris.html)
+- []()
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [Games Console on Osciloscope](https://mitxela.com/projects/console)
 - [Generation I Pokémon Cries Explained](https://www.youtube.com/watch?v=gDLpbFXnpeY)
@@ -17,6 +18,7 @@ General curiosities
 - [A guide to dynamic pricing algorithms](https://blog.griddynamics.com/dynamic-pricing-algorithms/)
 
 ## Sites
+- [SpriteStack: 3D pixelart editor](https://spritestack.io/)
 - [Polyhedra Viewer](https://polyhedra.tessera.li/)
 - [Sandspiel](https://sandspiel.club/)
 - [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
