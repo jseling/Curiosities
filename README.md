@@ -5,7 +5,7 @@ General curiosities
 - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 - [CastlevaniaBot](https://meatfighter.com/castlevaniabot/)
 - [Tetris](https://www.colinfahey.com/tetris/tetris.html)
-- []()
+- [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [Games Console on Osciloscope](https://mitxela.com/projects/console)
 - [Generation I Pokémon Cries Explained](https://www.youtube.com/watch?v=gDLpbFXnpeY)
