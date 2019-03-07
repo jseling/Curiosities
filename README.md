@@ -16,6 +16,7 @@ General curiosities
 - [CSS 3D Engine](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 - [A game without loops](https://gist.githubusercontent.com/alessonforposterity/832da4fab11e10609dad/raw/258df12378399919ae088ba8731a7571d9c2c947/drgn.txt)
 - [A guide to dynamic pricing algorithms](https://blog.griddynamics.com/dynamic-pricing-algorithms/)
+- [Adventures Logic Land](http://www.adventuresinlogicland.com/web-demo)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
