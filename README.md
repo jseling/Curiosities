@@ -17,6 +17,7 @@ General curiosities
 - [A game without loops](https://gist.githubusercontent.com/alessonforposterity/832da4fab11e10609dad/raw/258df12378399919ae088ba8731a7571d9c2c947/drgn.txt)
 - [A guide to dynamic pricing algorithms](https://blog.griddynamics.com/dynamic-pricing-algorithms/)
 - [Adventures Logic Land](http://www.adventuresinlogicland.com/web-demo)
+- [I've created a tutorial about how transforming the most crappy art into usable pixel art](https://lunarlabs.pt/blog/post/from_doodle_to_asset)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
