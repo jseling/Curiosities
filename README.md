@@ -34,3 +34,4 @@ General curiosities
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
+- [How to «open» microchip and what's inside?](https://zeptobars.com/en/read/how-to-open-microchip-asic-what-inside)
