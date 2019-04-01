@@ -19,6 +19,7 @@ General curiosities
 - [Adventures Logic Land](http://www.adventuresinlogicland.com/web-demo)
 - [I've created a tutorial about how transforming the most crappy art into usable pixel art](https://lunarlabs.pt/blog/post/from_doodle_to_asset)
 - [The masterpiece graphic microcode behind the Nintendo 64 version of Indiana Jones and the Infernal Machine and Star Wars Episode I: Battle for Naboo](https://github.com/gonetz/GLideN64/wiki/The-masterpiece-graphic-microcode-behind--the-Nintendo-64-version-of--Indiana-Jones-and-the-Infernal-Machine-and-Star-Wars-Episode-I:-Battle-for-Naboo)
+- [The Pac-Man Dossier!](http://tralvex.com/download/forum/The%20Pac-Man%20Dossier.pdf)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
