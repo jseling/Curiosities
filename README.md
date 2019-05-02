@@ -33,6 +33,7 @@ General curiosities
 - [3dFractalGenerator](http://n4no.com/projects/3dFractalGenerator/3d-fractal-generator.html?reddit)
 - [Falácias](https://yourlogicalfallacyis.com/)
 - [Colorpicker](https://colorsupplyyy.com/app)
+- [Mapa de Exônimos](https://endonymmap.com/)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
