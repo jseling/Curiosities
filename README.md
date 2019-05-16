@@ -21,6 +21,7 @@ General curiosities
 - [The masterpiece graphic microcode behind the Nintendo 64 version of Indiana Jones and the Infernal Machine and Star Wars Episode I: Battle for Naboo](https://github.com/gonetz/GLideN64/wiki/The-masterpiece-graphic-microcode-behind--the-Nintendo-64-version-of--Indiana-Jones-and-the-Infernal-Machine-and-Star-Wars-Episode-I:-Battle-for-Naboo)
 - [The Pac-Man Dossier!](http://tralvex.com/download/forum/The%20Pac-Man%20Dossier.pdf)
 - [The Seven Circles of Developer Hell [Infographic]](https://blog.toggl.com/seven-levels-developer-hell/)
+- [Universal Game Translator – Using Google’s Cloud Vision API to live-translate Japanese games played on original consoles (try it yourself!)](https://www.codedojo.com/?p=2426)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
