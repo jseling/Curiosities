@@ -41,5 +41,9 @@ General curiosities
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
 - [How to «open» microchip and what's inside?](https://zeptobars.com/en/read/how-to-open-microchip-asic-what-inside)
 
+## Comportamento
+- [Procrastination is not a time management problem, it is an emotion - Haclernews](https://news.ycombinator.com/item?id=19975862)
+- [You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating!](https://cognitiontoday.com/2019/05/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/)
+
 ## Math
 - [Follow-up: I found two identical packs of Skittles, among 468 packs with a total of 27,740 Skittles](https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles/)
