@@ -35,6 +35,7 @@ General curiosities
 - [Falácias](https://yourlogicalfallacyis.com/)
 - [Colorpicker](https://colorsupplyyy.com/app)
 - [Mapa de Exônimos](https://endonymmap.com/)
+- [507 movimentos mecânicos](http://507movements.com/)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
