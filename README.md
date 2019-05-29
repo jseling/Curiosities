@@ -22,6 +22,7 @@ General curiosities
 - [The Pac-Man Dossier!](http://tralvex.com/download/forum/The%20Pac-Man%20Dossier.pdf)
 - [The Seven Circles of Developer Hell [Infographic]](https://blog.toggl.com/seven-levels-developer-hell/)
 - [Universal Game Translator – Using Google’s Cloud Vision API to live-translate Japanese games played on original consoles (try it yourself!)](https://www.codedojo.com/?p=2426)
+- [Pseudo 3d engine canvas and svg](https://zzz.dog/)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
