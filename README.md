@@ -39,6 +39,7 @@ General curiosities
 - [Mapa de Exônimos](https://endonymmap.com/)
 - [507 movimentos mecânicos](http://507movements.com/)
 - [This website runs on a solar powered server on Barcelona](https://solar.lowtechmagazine.com/power.html)
+- [Planetary transfer calculator](https://transfercalculator.com/)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
