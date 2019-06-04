@@ -23,6 +23,7 @@ General curiosities
 - [The Seven Circles of Developer Hell [Infographic]](https://blog.toggl.com/seven-levels-developer-hell/)
 - [Universal Game Translator – Using Google’s Cloud Vision API to live-translate Japanese games played on original consoles (try it yourself!)](https://www.codedojo.com/?p=2426)
 - [Pseudo 3d engine canvas and svg](https://zzz.dog/)
+- [Rosetta stone](https://rosettacode.org/wiki/Rosetta_Code)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
