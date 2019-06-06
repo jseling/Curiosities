@@ -35,12 +35,15 @@ General curiosities
 - [StarWars ASCII](http://asciimation.co.nz/#)
 - [3dFractalGenerator](http://n4no.com/projects/3dFractalGenerator/3d-fractal-generator.html?reddit)
 - [Falácias](https://yourlogicalfallacyis.com/)
-- [Colorpicker](https://colorsupplyyy.com/app)
-- [Coolors](https://coolors.co/app)
 - [Mapa de Exônimos](https://endonymmap.com/)
 - [507 movimentos mecânicos](http://507movements.com/)
 - [This website runs on a solar powered server on Barcelona](https://solar.lowtechmagazine.com/power.html)
 - [Planetary transfer calculator](https://transfercalculator.com/)
+
+## Design
+- [Colorpicker](https://colorsupplyyy.com/app)
+- [Coolors](https://coolors.co/app)
+- [Easy to Remember Color Guide for Non-Designers](https://docs.sendwithses.com/random-stuff/easy-to-remember-color-guide-for-non-designers)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
