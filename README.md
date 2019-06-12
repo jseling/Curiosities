@@ -24,6 +24,7 @@ General curiosities
 - [Universal Game Translator – Using Google’s Cloud Vision API to live-translate Japanese games played on original consoles (try it yourself!)](https://www.codedojo.com/?p=2426)
 - [Pseudo 3d engine canvas and svg](https://zzz.dog/)
 - [Rosetta stone](https://rosettacode.org/wiki/Rosetta_Code)
+- [Photo Wake-Up: 3D Character Animation from a Single Photo](https://grail.cs.washington.edu/projects/wakeup/)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
