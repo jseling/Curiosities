@@ -25,6 +25,8 @@ General curiosities
 - [Pseudo 3d engine canvas and svg](https://zzz.dog/)
 - [Rosetta stone](https://rosettacode.org/wiki/Rosetta_Code)
 - [Photo Wake-Up: 3D Character Animation from a Single Photo](https://grail.cs.washington.edu/projects/wakeup/)
+- [Introduction to Nintendo 64 Programming: REDDIT](https://www.reddit.com/r/programming/comments/c3bbhe/introduction_to_nintendo_64_programming/)
+- [Introduction to Nintendo 64 Programming](http://n64.icequake.net/doc/n64intro/kantan/index.html)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
