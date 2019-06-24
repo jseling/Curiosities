@@ -43,6 +43,9 @@ General curiosities
 - [This website runs on a solar powered server on Barcelona](https://solar.lowtechmagazine.com/power.html)
 - [Planetary transfer calculator](https://transfercalculator.com/)
 
+## Business
+- [Como criar uma empresa de jogos em Portugal](https://lunarlabs.pt/blog/post/tutorial_criacao_de_empresas_de_videojogos_em_portugal)
+
 ## Design
 - [Colorpicker](https://colorsupplyyy.com/app)
 - [Coolors](https://coolors.co/app)
