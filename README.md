@@ -27,6 +27,7 @@ General curiosities
 - [Photo Wake-Up: 3D Character Animation from a Single Photo](https://grail.cs.washington.edu/projects/wakeup/)
 - [Introduction to Nintendo 64 Programming: REDDIT](https://www.reddit.com/r/programming/comments/c3bbhe/introduction_to_nintendo_64_programming/)
 - [Introduction to Nintendo 64 Programming](http://n64.icequake.net/doc/n64intro/kantan/index.html)
+- [Monte Carlo methods - Why it's a bad idea to go to the casino](https://easylang.online/apps/tutorial_mcarlo.html)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
