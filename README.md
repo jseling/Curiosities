@@ -43,6 +43,7 @@ General curiosities
 - [507 movimentos mecânicos](http://507movements.com/)
 - [This website runs on a solar powered server on Barcelona](https://solar.lowtechmagazine.com/power.html)
 - [Planetary transfer calculator](https://transfercalculator.com/)
+- [Blockchain 3D visualization](https://symphony.iohk.io/)
 
 ## Business
 - [Como criar uma empresa de jogos em Portugal](https://lunarlabs.pt/blog/post/tutorial_criacao_de_empresas_de_videojogos_em_portugal)
