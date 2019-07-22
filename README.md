@@ -28,6 +28,8 @@ General curiosities
 - [Introduction to Nintendo 64 Programming: REDDIT](https://www.reddit.com/r/programming/comments/c3bbhe/introduction_to_nintendo_64_programming/)
 - [Introduction to Nintendo 64 Programming](http://n64.icequake.net/doc/n64intro/kantan/index.html)
 - [Monte Carlo methods - Why it's a bad idea to go to the casino](https://easylang.online/apps/tutorial_mcarlo.html)
+- [Computational Photography: From Selfies to Black Holes](https://vas3k.com/blog/computational_photography/)
+- [Writing a lunar lander game for an actual lunar lander](http://cowlark.com/2019-07-20-cowgol-agc/index.html)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
@@ -56,6 +58,7 @@ General curiosities
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
 - [How to «open» microchip and what's inside?](https://zeptobars.com/en/read/how-to-open-microchip-asic-what-inside)
+- [Tabela Periódica Dinâmica](https://ptable.com/)
 
 ## Comportamento
 - [Procrastination is not a time management problem, it is an emotion - Haclernews](https://news.ycombinator.com/item?id=19975862)
