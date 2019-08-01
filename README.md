@@ -4,6 +4,7 @@ General curiosities
 ## Programing
 - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 - [CastlevaniaBot](https://meatfighter.com/castlevaniabot/)
+- [Diablo I Web](https://sergi4ua.pp.ua/diabloweb/)
 - [Tetris](https://www.colinfahey.com/tetris/tetris.html)
 - [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
