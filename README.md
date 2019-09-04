@@ -31,6 +31,7 @@ General curiosities
 - [Monte Carlo methods - Why it's a bad idea to go to the casino](https://easylang.online/apps/tutorial_mcarlo.html)
 - [Computational Photography: From Selfies to Black Holes](https://vas3k.com/blog/computational_photography/)
 - [Writing a lunar lander game for an actual lunar lander](http://cowlark.com/2019-07-20-cowgol-agc/index.html)
+- [The history of Tetris randomizers](https://simon.lc/the-history-of-tetris-randomizers)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
