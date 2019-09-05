@@ -33,6 +33,7 @@ General curiosities
 - [Writing a lunar lander game for an actual lunar lander](http://cowlark.com/2019-07-20-cowgol-agc/index.html)
 - [The history of Tetris randomizers](https://simon.lc/the-history-of-tetris-randomizers)
 - [How Does BitTorrent Work? a Plain English Guide](https://skerritt.blog/bit-torrent/)
+- [The Secret History of ‘Easter Eggs’](https://www.nytimes.com/2019/08/08/technology/easter-eggs-tesla-google.html)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
