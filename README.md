@@ -34,7 +34,8 @@ General curiosities
 - [The history of Tetris randomizers](https://simon.lc/the-history-of-tetris-randomizers)
 - [How Does BitTorrent Work? a Plain English Guide](https://skerritt.blog/bit-torrent/)
 - [The Secret History of ‘Easter Eggs’](https://www.nytimes.com/2019/08/08/technology/easter-eggs-tesla-google.html)
-- :video:[NES Emulator from scratch](https://www.youtube.com/watch?v=F8kx56OZQhg)
+- :clapper:[NES Emulator from scratch](https://www.youtube.com/watch?v=F8kx56OZQhg)
+- [AN ORAL HISTORY OF ‘SNAKE’ ON NOKIA](https://melmagazine.com/en-us/story/snake-nokia-6110-oral-history-taneli-armanto)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
