@@ -36,6 +36,7 @@ General curiosities
 - [The Secret History of ‘Easter Eggs’](https://www.nytimes.com/2019/08/08/technology/easter-eggs-tesla-google.html)
 - :clapper:[NES Emulator from scratch](https://www.youtube.com/watch?v=F8kx56OZQhg)
 - [AN ORAL HISTORY OF ‘SNAKE’ ON NOKIA](https://melmagazine.com/en-us/story/snake-nokia-6110-oral-history-taneli-armanto)
+- [Tutorial series for simulating NES Graphics](https://nesrocks.com/blog/nes-graphics/)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
