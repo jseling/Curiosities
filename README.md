@@ -37,6 +37,7 @@ General curiosities
 - :clapper:[NES Emulator from scratch](https://www.youtube.com/watch?v=F8kx56OZQhg)
 - [AN ORAL HISTORY OF ‘SNAKE’ ON NOKIA](https://melmagazine.com/en-us/story/snake-nokia-6110-oral-history-taneli-armanto)
 - [Tutorial series for simulating NES Graphics](https://nesrocks.com/blog/nes-graphics/)
+- [AlphaStar AI Stacraft](https://www.lesswrong.com/posts/FpcgSoJDNNEZ4BQfj/the-unexpected-difficulty-of-comparing-alphastar-to-humans)
 
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
