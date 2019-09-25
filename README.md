@@ -39,6 +39,10 @@ General curiosities
 - [Tutorial series for simulating NES Graphics](https://nesrocks.com/blog/nes-graphics/)
 - [AlphaStar AI Stacraft](https://www.lesswrong.com/posts/FpcgSoJDNNEZ4BQfj/the-unexpected-difficulty-of-comparing-alphastar-to-humans)
 
+
+## IA
+- [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
+
 ## Sites
 - [SpriteStack: 3D pixelart editor](https://spritestack.io/)
 - [wanderers](https://wanderers.io/)
