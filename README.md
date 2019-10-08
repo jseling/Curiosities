@@ -40,6 +40,7 @@ General curiosities
 - [AlphaStar AI Stacraft](https://www.lesswrong.com/posts/FpcgSoJDNNEZ4BQfj/the-unexpected-difficulty-of-comparing-alphastar-to-humans)
 - [Text rendering in browsers](https://gankra.github.io/blah/text-hates-you/)
 - [Sonic Battle (GBA) Renderer Series - 3D render on GBA](https://fouramgames.com/blog/sonic-battle-renderer)
+- [ASCII 3d game](http://asciicker.com/x13/)
 
 ## IA
 - [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
