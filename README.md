@@ -41,6 +41,7 @@ General curiosities
 - [Text rendering in browsers](https://gankra.github.io/blah/text-hates-you/)
 - [Sonic Battle (GBA) Renderer Series - 3D render on GBA](https://fouramgames.com/blog/sonic-battle-renderer)
 - [ASCII 3d game](http://asciicker.com/x13/)
+- [Hello World…Not so easy in Assembly](https://towardsdatascience.com/hello-world-not-so-easy-in-assembly-23da6644ff0d)
 
 ## IA
 - [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
