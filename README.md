@@ -40,6 +40,7 @@ General curiosities
 - [AlphaStar AI Stacraft](https://www.lesswrong.com/posts/FpcgSoJDNNEZ4BQfj/the-unexpected-difficulty-of-comparing-alphastar-to-humans)
 - [Text rendering in browsers](https://gankra.github.io/blah/text-hates-you/)
 - [Font smoothing, anti-aliasing, and sub-pixel rendering](https://www.joelonsoftware.com/2007/06/12/font-smoothing-anti-aliasing-and-sub-pixel-rendering/)
+- [Texts Rasterization Exposures](https://web.archive.org/web/20190328001442/http://www.antigrain.com/research/font_rasterization/index.html#FONT_RASTERIZATION)
 - [Sonic Battle (GBA) Renderer Series - 3D render on GBA](https://fouramgames.com/blog/sonic-battle-renderer)
 - [ASCII 3d game](http://asciicker.com/x13/)
 - [Hello World…Not so easy in Assembly](https://towardsdatascience.com/hello-world-not-so-easy-in-assembly-23da6644ff0d)
