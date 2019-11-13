@@ -47,6 +47,7 @@ General curiosities
 - [OpenAI Plays Hide and Seek…and Breaks The Game!](https://en.reddit.com/r/programming/comments/dlq9hj/openai_plays_hide_and_seekand_breaks_the_game/)
 - [Grail (1968): Back to the Future of Handwriting Recognition](https://jackschaedler.github.io/handwriting-recognition/)
 - :clapper:[Grail: video demonstration](https://www.youtube.com/watch?v=2Cq8S3jzJiQ)
+- [AI Clones Your Voice After Listening for 5 Seconds](https://google.github.io/tacotron/publications/speaker_adaptation/)
 
 ## IA
 - [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
