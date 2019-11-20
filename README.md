@@ -87,6 +87,7 @@ General curiosities
 - [Tabela Periódica Dinâmica](https://ptable.com/)
 
 ## Comportamento
+- [Basic social skills guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [Procrastination is not a time management problem, it is an emotion - Haclernews](https://news.ycombinator.com/item?id=19975862)
 - [You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating!](https://cognitiontoday.com/2019/05/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/)
 
