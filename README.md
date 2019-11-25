@@ -86,6 +86,9 @@ General curiosities
 - [How to «open» microchip and what's inside?](https://zeptobars.com/en/read/how-to-open-microchip-asic-what-inside)
 - [Tabela Periódica Dinâmica](https://ptable.com/)
 
+## History and Culture
+- [Early chinese world maps](https://resobscura.blogspot.com/2010/09/wanguo-quantu.html)
+
 ## Comportamento
 - [Basic social skills guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [Procrastination is not a time management problem, it is an emotion - Haclernews](https://news.ycombinator.com/item?id=19975862)
