@@ -95,4 +95,5 @@ General curiosities
 - [You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating!](https://cognitiontoday.com/2019/05/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/)
 
 ## Math
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 - [Follow-up: I found two identical packs of Skittles, among 468 packs with a total of 27,740 Skittles](https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles/)
