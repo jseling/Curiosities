@@ -69,6 +69,7 @@ General curiosities
 - [Blockchain 3D visualization](https://symphony.iohk.io/)
 - [Mapa interativo placas tectônicas ao longo do tempo](http://dinosaurpictures.org/ancient-earth#0)
 - [Choose an open source license](https://choosealicense.com/)
+- [TrackingTheTrackers.com](https://trackingthetrackers.com/)
 
 ## Business
 - [Como criar uma empresa de jogos em Portugal](https://lunarlabs.pt/blog/post/tutorial_criacao_de_empresas_de_videojogos_em_portugal)
