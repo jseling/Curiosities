@@ -73,6 +73,7 @@ General curiosities
 
 ## Business
 - [Como criar uma empresa de jogos em Portugal](https://lunarlabs.pt/blog/post/tutorial_criacao_de_empresas_de_videojogos_em_portugal)
+- [Lessons learned building an ML trading system that turned $5k into $200k](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 
 ## Design
 - [Colorpicker](https://colorsupplyyy.com/app)
