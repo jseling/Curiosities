@@ -49,7 +49,7 @@ General curiosities
 - :clapper:[Grail: video demonstration](https://www.youtube.com/watch?v=2Cq8S3jzJiQ)
 - [AI Clones Your Voice After Listening for 5 Seconds](https://google.github.io/tacotron/publications/speaker_adaptation/)
 
-## IA
+## AI
 - [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
 
 ## Sites
@@ -90,10 +90,11 @@ General curiosities
 ## History and Culture
 - [Early chinese world maps](https://resobscura.blogspot.com/2010/09/wanguo-quantu.html)
 
-## Comportamento
+## Behaviour
 - [Basic social skills guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [Procrastination is not a time management problem, it is an emotion - Haclernews](https://news.ycombinator.com/item?id=19975862)
 - [You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating!](https://cognitiontoday.com/2019/05/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/)
+- [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 
 ## Math
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
