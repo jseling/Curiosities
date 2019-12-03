@@ -48,6 +48,7 @@ General curiosities
 - [Grail (1968): Back to the Future of Handwriting Recognition](https://jackschaedler.github.io/handwriting-recognition/)
 - :clapper:[Grail: video demonstration](https://www.youtube.com/watch?v=2Cq8S3jzJiQ)
 - [AI Clones Your Voice After Listening for 5 Seconds](https://google.github.io/tacotron/publications/speaker_adaptation/)
+- [0.1 + 0.2 = 0.30000000000000004](http://0.30000000000000004.com/)
 
 ## AI
 - [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
