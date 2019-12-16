@@ -51,6 +51,9 @@ General curiosities
 - [0.1 + 0.2 = 0.30000000000000004](http://0.30000000000000004.com/)
 - :star:[Computer Archeology: Old games code](https://computerarcheology.com/)
 
+## Blockchain
+- [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
+
 ## AI
 - [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
 
