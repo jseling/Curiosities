@@ -98,6 +98,7 @@ General curiosities
 ## History and Culture
 - [Early chinese world maps](https://resobscura.blogspot.com/2010/09/wanguo-quantu.html)
 - [List of price of medieval items](http://medieval.ucdavis.edu/120D/Money.html)
+- [Geoprocessamento Florianópolis - Mapas aeros desde 1938](http://geo.pmf.sc.gov.br/geo_fpolis/index.php)
 
 ## Behaviour
 - [Basic social skills guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
