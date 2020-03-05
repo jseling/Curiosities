@@ -50,6 +50,7 @@ General curiosities
 - [AI Clones Your Voice After Listening for 5 Seconds](https://google.github.io/tacotron/publications/speaker_adaptation/)
 - [0.1 + 0.2 = 0.30000000000000004](http://0.30000000000000004.com/)
 - :star:[Computer Archeology: Old games code](https://computerarcheology.com/)
+- [Console Colors](https://ss64.com/nt/color.html)
 
 ## Blockchain
 - [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
