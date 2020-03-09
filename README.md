@@ -54,6 +54,7 @@ General curiosities
 
 ## Blockchain
 - [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
+- [Implementing Raft: Part 0 - Introduction](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
 
 ## AI
 - [AI Learns to perfectly play Snake using a Genetic Algorithm and Neural Network!](https://en.reddit.com/r/programming/comments/d93kwk/ai_learns_to_perfectly_play_snake_using_a_genetic/)
