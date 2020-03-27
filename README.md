@@ -51,6 +51,7 @@ General curiosities
 - [0.1 + 0.2 = 0.30000000000000004](http://0.30000000000000004.com/)
 - :star:[Computer Archeology: Old games code](https://computerarcheology.com/)
 - [Console Colors](https://ss64.com/nt/color.html)
+- [Creating an Editable Site with Google Sheets and Eleventy](https://css-tricks.com/creating-an-editable-site-with-google-sheets-and-eleventy/)
 
 ## Blockchain
 - [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
