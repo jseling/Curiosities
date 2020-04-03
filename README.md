@@ -53,6 +53,7 @@ General curiosities
 - [Console Colors](https://ss64.com/nt/color.html)
 - [Creating an Editable Site with Google Sheets and Eleventy](https://css-tricks.com/creating-an-editable-site-with-google-sheets-and-eleventy/)
 - [Try Linux](https://www.trylinux.today/)
+- [Font Lerper](https://www.recursive.design/)
 
 ## Blockchain
 - [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
