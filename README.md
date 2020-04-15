@@ -54,6 +54,7 @@ General curiosities
 - [Creating an Editable Site with Google Sheets and Eleventy](https://css-tricks.com/creating-an-editable-site-with-google-sheets-and-eleventy/)
 - [Try Linux](https://www.trylinux.today/)
 - [Font Lerper](https://www.recursive.design/)
+- [Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
 
 ## Blockchain
 - [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
