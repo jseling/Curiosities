@@ -56,6 +56,7 @@ General curiosities
 - [Font Lerper](https://www.recursive.design/)
 - [Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
 - :clapper:[Excel with s0lly: 5. Simulating the Game of Life](https://www.youtube.com/watch?v=IiyVHIxdrYo)
+- [Anatomy of Windows Hello World program](https://pratikone.github.io/c++/2020/06/07/anatomy-of-windows-hello-world.html)
 
 ## Blockchain
 - [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
