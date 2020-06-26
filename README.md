@@ -58,6 +58,9 @@ General curiosities
 - :clapper:[Excel with s0lly: 5. Simulating the Game of Life](https://www.youtube.com/watch?v=IiyVHIxdrYo)
 - [Anatomy of Windows Hello World program](https://pratikone.github.io/c++/2020/06/07/anatomy-of-windows-hello-world.html)
 
+## Games
+- [Magnasanti: The Largest and Most Terrifying SimCity](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
+
 ## Blockchain
 - [O bloco gênese e o nascimento do Bitcoin](https://www.infomoney.com.br/colunistas/moeda-na-era-digital/o-bloco-genese-e-o-nascimento-do-bitcoin/)
 - [Implementing Raft: Part 0 - Introduction](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
