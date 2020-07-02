@@ -99,7 +99,7 @@ General curiosities
 - [Easy to Remember Color Guide for Non-Designers](https://docs.sendwithses.com/random-stuff/easy-to-remember-color-guide-for-non-designers)
 - [Nostalgy pixel art: Reality Vs Expectation](https://imgur.com/lQFPG14)
 - [How Pixel Art Gets Designed](https://imgur.com/gallery/LJKa73K)
-
+- [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
