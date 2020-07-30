@@ -100,6 +100,7 @@ General curiosities
 - [Nostalgy pixel art: Reality Vs Expectation](https://imgur.com/lQFPG14)
 - [How Pixel Art Gets Designed](https://imgur.com/gallery/LJKa73K)
 - [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
+- [Making of British & Exotic Mineralogy](https://www.c82.net/blog/?id=84)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
