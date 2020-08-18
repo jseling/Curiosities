@@ -114,6 +114,8 @@ General curiosities
 - [Early chinese world maps](https://resobscura.blogspot.com/2010/09/wanguo-quantu.html)
 - [List of price of medieval items](http://medieval.ucdavis.edu/120D/Money.html)
 - [Geoprocessamento Florianópolis - Mapas aéreos desde 1938](http://geo.pmf.sc.gov.br/geo_fpolis/index.php)
+- [scI FI HISTORY](https://www.facebook.com/jurvetson/posts/10164061348255611)
+- [Sci fi history graphic](https://www.flickr.com/photos/jurvetson/5539817741/sizes/o?fbclid=IwAR2rYQYaByf00FpeBnMbNbWmWazSrO0qUL01hMhAG4XhqoY5tyfMHgXpjBA)
 
 ## Behaviour
 - [Basic social skills guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
