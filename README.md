@@ -6,6 +6,7 @@ General curiosities
 - [CastlevaniaBot](https://meatfighter.com/castlevaniabot/)
 - [Diablo I Web](https://sergi4ua.pp.ua/diabloweb/)
 - [Tetris](https://www.colinfahey.com/tetris/tetris.html)
+- [Java Tetris](http://zetcode.com/javagames/tetris/)
 - [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [Games Console on Osciloscope](https://mitxela.com/projects/console)
