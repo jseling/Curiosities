@@ -91,7 +91,7 @@ General curiosities
 - [Choose an open source license](https://choosealicense.com/)
 - [TrackingTheTrackers.com](https://trackingthetrackers.com/)
 - [Request Map Generator: Submit a URL to generate a node map of all of the requests on the page.](http://requestmap.herokuapp.com/)
-
+- [SculptGL: A WebGL sculpt tool](https://stephaneginier.com/sculptgl/)
 
 ## Business
 - [Como criar uma empresa de jogos em Portugal](https://lunarlabs.pt/blog/post/tutorial_criacao_de_empresas_de_videojogos_em_portugal)
