@@ -105,6 +105,8 @@ General curiosities
 - [How Pixel Art Gets Designed](https://imgur.com/gallery/LJKa73K)
 - [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/)
 - [Making of British & Exotic Mineralogy](https://www.c82.net/blog/?id=84)
+- [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)
+- [basic color theory, HSL, and Sass](https://v6.robweychert.com/blog/2018/02/v6-color/)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
