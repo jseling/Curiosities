@@ -109,6 +109,7 @@ General curiosities
 - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)
 - [basic color theory, HSL, and Sass](https://v6.robweychert.com/blog/2018/02/v6-color/)
 - [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
+- [reasoning about colors](http://notes.neeasade.net/color-spaces.html)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
@@ -128,6 +129,7 @@ General curiosities
 - [Procrastination is not a time management problem, it is an emotion - Haclernews](https://news.ycombinator.com/item?id=19975862)
 - [You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating!](https://cognitiontoday.com/2019/05/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/)
 - [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
+- [Managing developer identities in autonomous teams](https://kislayverma.com/organizations/managing-developer-identities-in-autonomous-teams/)
 
 ## Math
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
