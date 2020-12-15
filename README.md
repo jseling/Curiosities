@@ -61,6 +61,7 @@ General curiosities
 - [Anatomy of Windows Hello World program](https://pratikone.github.io/c++/2020/06/07/anatomy-of-windows-hello-world.html)
 - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 - [Project Nayuki: Programming. General math and utils demos, cripto, etc](https://www.nayuki.io/category/programming)
+- [SuperRT: Raytracer SNES](https://www.shironekolabs.com/posts/superrt/)
 
 ## Games
 - [Magnasanti: The Largest and Most Terrifying SimCity](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
