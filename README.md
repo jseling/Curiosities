@@ -118,6 +118,7 @@ General curiosities
 - [How to «open» microchip and what's inside?](https://zeptobars.com/en/read/how-to-open-microchip-asic-what-inside)
 - [Tabela Periódica Dinâmica](https://ptable.com/)
 - :star:[An Orbit Map of the Solar System](http://tabletopwhale.com/2019/06/10/the-solar-system.html)
+- [light pollution map](https://www.lightpollutionmap.info/#zoom=3.68&lat=-19.4581&lon=-34.3380&layers=B0FFFFFFTFFFFFFFFFF)
 
 ## History and Culture
 - [Early chinese world maps](https://resobscura.blogspot.com/2010/09/wanguo-quantu.html)
