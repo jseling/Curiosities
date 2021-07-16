@@ -120,6 +120,8 @@ General curiosities
 - [Tabela Periódica Dinâmica](https://ptable.com/)
 - :star:[An Orbit Map of the Solar System](http://tabletopwhale.com/2019/06/10/the-solar-system.html)
 - [light pollution map](https://www.lightpollutionmap.info/#zoom=3.68&lat=-19.4581&lon=-34.3380&layers=B0FFFFFFTFFFFFFFFFF)
+- [Why we're blind to the color blue (calebkruse.com): HACKER NEWS](https://news.ycombinator.com/item?id=27858630)
+- [why we're blind to the color blue: ORIGINAL](https://calebkruse.com/10-projects/seeing-blue/)
 
 ## History and Culture
 - [Early chinese world maps](https://resobscura.blogspot.com/2010/09/wanguo-quantu.html)
