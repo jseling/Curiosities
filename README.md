@@ -2,6 +2,8 @@
 General curiosities
 
 ## Programing
+- [How Dwarf Fortress is built (stackoverflow.blog)](https://news.ycombinator.com/item?id=27996684)
+- [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/)
 - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 - [CastlevaniaBot](https://meatfighter.com/castlevaniabot/)
 - [Diablo I Web](https://sergi4ua.pp.ua/diabloweb/)
