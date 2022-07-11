@@ -138,6 +138,7 @@ General curiosities
 - [You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating!](https://cognitiontoday.com/2019/05/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/)
 - [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 - [Managing developer identities in autonomous teams](https://kislayverma.com/organizations/managing-developer-identities-in-autonomous-teams/)
+- [Introverts, You Need 3 Traits to Become a Great Software Architect](https://levelup.gitconnected.com/introverts-you-need-3-traits-to-become-a-great-software-architect-26baed8bd560)
 
 ## Math
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
