@@ -97,6 +97,7 @@ General curiosities
 - [SculptGL: A WebGL sculpt tool](https://stephaneginier.com/sculptgl/)
 - [141 Optical Illusions & Visual Phenomena](https://michaelbach.de/ot/)
 - [Radio Garden](http://radio.garden/)
+- [Interactive Periodic table](https://ptable.com/?lang=en#Properties)
 
 ## Business
 - [Como criar uma empresa de jogos em Portugal](https://lunarlabs.pt/blog/post/tutorial_criacao_de_empresas_de_videojogos_em_portugal)
