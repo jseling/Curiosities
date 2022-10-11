@@ -64,6 +64,7 @@ General curiosities
 - [Project Nayuki: Programming. General math and utils demos, cripto, etc](https://www.nayuki.io/category/programming)
 - [SuperRT: Raytracer SNES](https://www.shironekolabs.com/posts/superrt/)
 - [POKEGB: a gameboy emulator that only plays Pokémon blue with 68 lines](https://binji.github.io/posts/pokegb/)
+- :clapper:[How classic Sierra game graphics worked (and an attempt to upscale them)](https://www.youtube.com/watch?v=sclZDCjUVvI)
 
 ## Games
 - [Magnasanti: The Largest and Most Terrifying SimCity](https://rumorsontheinternets.org/2010/10/14/magnasanti-the-largest-and-most-terrifying-simcity/)
