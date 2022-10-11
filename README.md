@@ -115,6 +115,7 @@ General curiosities
 - [basic color theory, HSL, and Sass](https://v6.robweychert.com/blog/2018/02/v6-color/)
 - [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
 - [reasoning about colors](http://notes.neeasade.net/color-spaces.html)
+- [How I Used DALL·E 2 to Generate The Logo for OctoSQL](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/)
 
 ## Science
 - [How life emerges from a simple particle motion law: Introducing the Primordial Particle System](https://www.youtube.com/watch?v=makaJpLvbow)
@@ -131,6 +132,7 @@ General curiosities
 - [Geoprocessamento Florianópolis - Mapas aéreos desde 1938](http://geo.pmf.sc.gov.br/geo_fpolis/index.php)
 - [scI FI HISTORY](https://www.facebook.com/jurvetson/posts/10164061348255611)
 - [Sci fi history graphic](https://www.flickr.com/photos/jurvetson/5539817741/sizes/o?fbclid=IwAR2rYQYaByf00FpeBnMbNbWmWazSrO0qUL01hMhAG4XhqoY5tyfMHgXpjBA)
+- [Peridéxion](https://pt.wikipedia.org/wiki/Perid%C3%A9xion)
 
 ## Behaviour
 - [Basic social skills guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
@@ -139,6 +141,7 @@ General curiosities
 - [Job negotiation for programmers: the basic principles](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 - [Managing developer identities in autonomous teams](https://kislayverma.com/organizations/managing-developer-identities-in-autonomous-teams/)
 - [Introverts, You Need 3 Traits to Become a Great Software Architect](https://levelup.gitconnected.com/introverts-you-need-3-traits-to-become-a-great-software-architect-26baed8bd560)
+- [The Art of the Elevator Pitch](https://hbr.org/2018/10/the-art-of-the-elevator-pitch)
 
 ## Math
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
